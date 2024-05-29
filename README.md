@@ -1,4 +1,4 @@
-# 👋 Hi, Welocme to @BroCodes-in
+# 👋 Hi, Welocme to Bro Codes
 
 ---
 
