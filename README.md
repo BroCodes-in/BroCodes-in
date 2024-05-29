@@ -50,4 +50,5 @@
 
 ---
 
-Thanks for stopping by! Feel free to explore our repositories and reach out if you'd like to collaborate or just chat about tech. Happy coding! 🚀
+Thanks for stopping by! Feel free to explore our repositories and reach out if you'd like to collaborate or just chat about tech. 
+Happy coding! 🚀
