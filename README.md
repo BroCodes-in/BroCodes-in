@@ -14,7 +14,7 @@
 
 ### 📫 How to Reach Us:
 - **Email:** service.brocodes@gmail.com
-- **LinkedIn:** [BroCodes on LinkedIn](www.linkedin.com/in/brocodes)
+- **LinkedIn:** [Bro codes](https://www.linkedin.com/in/brocodes)
 
 
 ---
